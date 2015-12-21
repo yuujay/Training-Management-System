@@ -15,7 +15,7 @@ public class DBManager {
 			conn = DriverManager
 					.getConnection(
 							"jdbc:mysql://localhost/test",
-							"muneer", "1234567");
+							"UJG", "1234567");
 			stmt = conn.createStatement();
 			//System.out.println(stmt);
 			
